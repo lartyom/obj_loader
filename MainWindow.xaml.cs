@@ -19,7 +19,7 @@ using System.Diagnostics;
 using System.Threading;
 using System.Windows.Threading;
 
-namespace wpf3Dengine
+namespace obj_loader
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
